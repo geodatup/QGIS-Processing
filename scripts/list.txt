@@ -14,6 +14,7 @@ Define_1_raster_layer_properties.py,1.0,Define 1 raster layer properties
 Define_1_vector_layer_properties.py,1.0,Define 1 vector layer properties
 Define_vector_layer_properties.py,1.0,Define vector layer properties
 DissolveWithStats.py,0.4,DissolveWithStats
+duplicate_field.py,0.1,Duplicate Field
 EquivalentNumField.py,1.0,EquivalentNumField
 Extract_raster_values_to_CSV.py,1,Extract raster values to CSV
 Extract_raster_values_to_shapefile.py,1,Extract raster values to shapefile
